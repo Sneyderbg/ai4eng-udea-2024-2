@@ -5,5 +5,5 @@
 - Laura Cristina Montoya Rodríguez - 1038064227 (Ingeniería industrial)
 - Samuel David Montoya Cano - 1001137973 (Ingeniería de sistemas)
 
-[Enlace al resumen del preprocesado](https://youtu.be/l7KOrUjTX4k)
+[Enlace al resumen del preprocesado](https://youtu.be/l7KOrUjTX4k)\
 [Enlace al video sobre la solución](https://www.youtube.com/watch?v=LBcE4RdPt1g)
